@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReadyReads/static/css/main.3bc745c7.css",
+    "main.js": "/ReadyReads/static/js/main.e27e0b33.js",
+    "static/js/787.4c026eef.chunk.js": "/ReadyReads/static/js/787.4c026eef.chunk.js",
+    "index.html": "/ReadyReads/index.html",
+    "main.3bc745c7.css.map": "/ReadyReads/static/css/main.3bc745c7.css.map",
+    "main.e27e0b33.js.map": "/ReadyReads/static/js/main.e27e0b33.js.map",
+    "787.4c026eef.chunk.js.map": "/ReadyReads/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bc745c7.css",
+    "static/js/main.e27e0b33.js"
+  ]
+}

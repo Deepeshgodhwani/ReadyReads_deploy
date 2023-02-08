@@ -12,10 +12,10 @@ app.use(express.json());
 
 const __dirname1 = path.resolve();
 
-app.use(express.static(path.join(__dirname1, "/frontend/build")));
+app.use(express.static(path.join(__dirname1, "frontend_build")));
 
 app.get("*", (req, res) => {
-  res.sendFile(path.resolve(__dirname1, "frontend", "build", "index.html"));
+  res.sendFile(path.resolve(__dirname1, "frontend_build", "index.html"));
 });
 
 //------------------------Deployment-----------
